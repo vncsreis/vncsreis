@@ -18,7 +18,7 @@ Coloco meus estudos e projetos por aqui. Fica à vontade pra dar uma olhada! �
  
  <br /> 
  
- ### Motivos de orgulho! 😎
+ ### Projetos bacanas! 😎
  
  - [Kanbasic](https://github.com/vncsreis/kanbasic);
  - [Ebookplace (front-end)](https://github.com/vncsreis/ebookplace-frontend);
